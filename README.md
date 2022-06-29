@@ -1,0 +1,2 @@
+# discordbot-asset
+KanaのDiscordBotに使用される画像等が保存されています。プロプライエタリなので注意してください。
