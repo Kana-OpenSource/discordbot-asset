@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="next.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1850">Next Button</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="33.543378"
+     inkscape:cx="7.9896545"
+     inkscape:cy="8.0045606"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,4.2333333"
+       orientation="0,16"
+       id="guide824" />
+    <sodipodi:guide
+       position="4.2333333,4.2333333"
+       orientation="16,0"
+       id="guide826" />
+    <sodipodi:guide
+       position="4.2333333,0"
+       orientation="0,-16"
+       id="guide828" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-16,0"
+       id="guide830" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid832"
+       spacingx="0.21166667"
+       spacingy="-0.21166667" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1428"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1391"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1354"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1317"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1002"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect965"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect928"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect891"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1646"
+       x="-0.21769321"
+       y="-0.23821522"
+       width="1.4353864"
+       height="1.4764304">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood1636" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite1638" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur1640" />
+      <feOffset
+         dx="0"
+         dy="-0.1"
+         result="offset"
+         id="feOffset1642" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="fbSourceGraphic"
+         id="feComposite1644" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1816" />
+      <feFlood
+         id="feFlood1818"
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1820"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1822"
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur" />
+      <feOffset
+         id="feOffset1824"
+         dx="0"
+         dy="0.1"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1826"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffd5e5;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1646)"
+       d="M 1.0937862,3.7042745 C 0.56470911,3.9513757 0.49415351,3.8808202 0.45874342,3.2810866 0.42333333,2.6813531 0.42333333,1.5524868 0.45861181,0.95263158 0.4938903,0.35277637 0.56444444,0.28222222 1.0937777,0.52926186 1.6231109,0.7763015 2.6108689,1.3407346 3.1400119,1.6582781 3.6691549,1.9758215 3.7397091,2.0463758 3.7395761,2.1167997 3.739443,2.1872236 3.6688889,2.2577778 3.1397551,2.575259 2.6106213,2.8927402 1.6228632,3.4571733 1.0937862,3.7042745 Z"
+       id="path1426"
+       inkscape:path-effect="#path-effect1428"
+       inkscape:original-d="M 0.63499999,4.0216666 C 0.56470904,3.9513758 0.49415347,3.8808202 0.42333333,3.81 c 2.6458e-4,-1.1286469 2.6458e-4,-2.2575132 0,-3.38666667 C 0.49415488,0.35304095 0.56470904,0.28248681 0.63499999,0.21166667 1.6230621,0.77638697 2.6108201,1.3408201 3.5983333,1.905 3.6691548,1.9758216 3.7397092,2.0463757 3.81,2.1166667 3.7397076,2.1874882 3.6691535,2.2580424 3.5983333,2.3283333 2.6108004,2.8930536 1.6230424,3.4574869 0.63499999,4.0216666 Z" />
+  </g>
+  <metadata
+     id="metadata1846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:date>2022/06/29</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Renorari</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(c) 2022 Renorari</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Kana</rdf:li>
+            <rdf:li>Button</rdf:li>
+            <rdf:li>Next</rdf:li>
+            <rdf:li>Renorari</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Kanaに使用されるボタンです。</dc:description>
+        <dc:title>Next Button</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
